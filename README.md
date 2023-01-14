@@ -1,7 +1,4 @@
-Ссылка на видео : https://drive.google.com/file/d/19XMRykMdaRlUcPH6ozZRauTbycABWmdO/view?usp=share_link
-
-
-DevTools HW
+DevTools HW  Ссылка на видео : https://drive.google.com/file/d/19XMRykMdaRlUcPH6ozZRauTbycABWmdO/view?usp=share_link
 
 Task:
 Сделать видео выполнения задания по сайту: http://itcareer.pythonanywhere.com/
